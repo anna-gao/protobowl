@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Player\n
+comment1.params=
+comment1.target=void\ addPoints()
+comment1.text=\n\ Method\ adds\ 10\ points\ to\ the\ player's\ total\ amount\ of\ points\ if\ player\ gets\ the\ question\ correct.\n
+comment2.params=
+comment2.target=void\ deductPoints()
+comment2.text=\n\ Method\ deducts\ 5\ points\ from\ player's\ total\ amount\ of\ points\ if\ player\ gets\ the\ question\ wrong\ or\ timer\ is\ up.\ \n
+comment3.params=
+comment3.target=int\ getPoints()
+comment3.text=\n\ Getter\ method\ allows\ access\ to\ the\ amount\ of\ points\ the\ player\ currently\ has.\ \n
+comment4.params=
+comment4.target=void\ tossRight()
+comment4.text=\n\ Method\ adds\ to\ how\ many\ toss-ups\ the\ player\ has\ answered\ correctly.\n
+comment5.params=
+comment5.target=void\ tossWrong()
+comment5.text=\n\ Method\ adds\ to\ how\ many\ toss-ups\ the\ player\ has\ answered\ incorrectly.\n
+comment6.params=
+comment6.target=int\ getTossRight()
+comment6.text=\n\ Getter\ method\ allows\ access\ to\ the\ amount\ of\ toss-ups\ the\ player\ has\ answered\ correctly.\n
+comment7.params=
+comment7.target=int\ getTossWrong()
+comment7.text=\n\ Getter\ method\ allows\ access\ to\ the\ amount\ of\ toss-ups\ the\ player\ has\ answered\ incorrectly.\n
+numComments=8

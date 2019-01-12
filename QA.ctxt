@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=inFile\ inFile2
+comment0.target=QA(chn.util.FileInput,\ chn.util.FileInput)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Question\n\ Reads\ from\ a\ file\ with\ all\ the\ questions\n
+comment1.params=
+comment1.target=java.lang.String\ getQuestion()
+comment1.text=\n\ Generates\ a\ random\ index\ of\ a\ question\ in\ ArrayList\ \n
+comment2.params=
+comment2.target=void\ wordByWord()
+comment3.params=
+comment3.target=java.lang.String\ getAnswer()
+comment3.text=\ \n\ Gets\ the\ answer\ at\ the\ random\ index\ in\ ArrayList\ a\n
+comment4.params=guess
+comment4.target=boolean\ isCorrect(java.lang.String)
+comment4.text=\n\ Returns\ true\ if\ the\ player\ answers\ the\ question\ correctly\ (keyword\ exists\ in\ answer)\n\ Gets\ answer\ as\ a\ lowercase\n
+numComments=5
